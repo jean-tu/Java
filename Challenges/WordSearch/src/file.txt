@@ -1,0 +1,6 @@
+this is a textfile where I am testing the amount of times that a word shows up 
+oh man locks on a textfile or a variable 
+things can be variable depending on the situation that you get yourself in 
+things can go up at any moment or change or fail 
+success is not the result of failure 
+failure leads to learning experiences that can be variable 
